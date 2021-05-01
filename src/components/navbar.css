@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+
+}
+.nav-link{
+    color: rgb(0, 0, 0);
+    /* font-size: 25px; */
+    font-weight: 600;
+    font-family: 'Roboto Slab', serif;
+}
+.link_active{
+    font-weight: bold;
+    border-bottom: 1px solid rgb(23, 26, 224);
+  }
+  .navbar a:hover{
+    color:rgb(25, 0, 255);
+    
+  }
+  .sellstyle {
+    border-radius: 20px;
+  }
