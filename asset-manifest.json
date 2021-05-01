@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/EbusinessReactpage/static/css/main.8a21d187.chunk.css",
+    "main.js": "/EbusinessReactpage/static/js/main.a71ce79d.chunk.js",
+    "main.js.map": "/EbusinessReactpage/static/js/main.a71ce79d.chunk.js.map",
+    "runtime-main.js": "/EbusinessReactpage/static/js/runtime-main.fe5e97ea.js",
+    "runtime-main.js.map": "/EbusinessReactpage/static/js/runtime-main.fe5e97ea.js.map",
+    "static/css/2.74c02967.chunk.css": "/EbusinessReactpage/static/css/2.74c02967.chunk.css",
+    "static/js/2.38dc6298.chunk.js": "/EbusinessReactpage/static/js/2.38dc6298.chunk.js",
+    "static/js/2.38dc6298.chunk.js.map": "/EbusinessReactpage/static/js/2.38dc6298.chunk.js.map",
+    "index.html": "/EbusinessReactpage/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/EbusinessReactpage/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.8a21d187.chunk.css.map": "/EbusinessReactpage/static/css/main.8a21d187.chunk.css.map",
+    "static/js/2.38dc6298.chunk.js.LICENSE.txt": "/EbusinessReactpage/static/js/2.38dc6298.chunk.js.LICENSE.txt",
+    "static/media/img1.688453bd.jpg": "/EbusinessReactpage/static/media/img1.688453bd.jpg",
+    "static/media/elocals.css": "/EbusinessReactpage/static/media/img4.35d0e6c6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe5e97ea.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.38dc6298.chunk.js",
+    "static/css/main.8a21d187.chunk.css",
+    "static/js/main.a71ce79d.chunk.js"
+  ]
+}
